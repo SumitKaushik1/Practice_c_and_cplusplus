@@ -1,4 +1,4 @@
-# Practice  C++
+# Practice C and C++
   ## programm of c++
     
     

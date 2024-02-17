@@ -15,4 +15,8 @@
     - global vs local variable(day1_10.cpp)
 
   - **day2**
-    - Hello World(day1_1.cpp)
+    - namespace(day2_1.cpp)
+    - namespace with same variable(day2_2.cpp)
+    - namespace with different variable(day2_3.cpp)
+    - namespace inside namespace(day2_4.cpp)
+    - namesapace inside main error(day2_5.cpp)

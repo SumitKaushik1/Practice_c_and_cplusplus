@@ -8,7 +8,11 @@
     - print two integer number(day1_3.cpp)
     - setw,setfill,setbase,oct,hex(day1_4.cpp)
     - c program - struct(day1_5.c)
-    - c program - struct with error(method not allowed in struct)(day1_6.c)  
+    - c program - struct with error(method not allowed in struct)(day1_6.c)
+    - methods  in struct(day1_7.cpp)
+    - methods  in struct(day1_8.cpp)
+    - global variable(day1_9.cpp)
+    - global vs local variable(day1_10.cpp)
 
   - **day2**
     - Hello World(day1_1.cpp)

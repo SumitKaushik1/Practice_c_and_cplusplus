@@ -30,5 +30,6 @@
     - class - private datamember(day2_13.cpp)
     - class - method call with scope resolution operator(day2_14.cpp)
     - class - method inside the class(day2_15.cpp)
-    - 
+    - class - arrow operator(day2_16.cpp)
+    - method declaration and method definition(day2_17.cpp)
     

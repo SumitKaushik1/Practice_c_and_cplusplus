@@ -20,3 +20,11 @@
     - namespace with different variable(day2_3.cpp)
     - namespace inside namespace(day2_4.cpp)
     - namesapace inside main error(day2_5.cpp)
+    - main method inside namespace(day2_6.cpp
+    - namespace variable without scope resolution operator(day2_7.cpp)
+    - different namespace variable without scope resolution operator(day2_8.cpp)
+    - namespace std(day2_9.cpp)
+    - class(day2_10.cpp)
+    - class with public data memeber(day2_11.cpp)
+    - 
+    

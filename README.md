@@ -25,6 +25,10 @@
     - different namespace variable without scope resolution operator(day2_8.cpp)
     - namespace std(day2_9.cpp)
     - class(day2_10.cpp)
-    - class with public data memeber(day2_11.cpp)
+    - class - with public data member(day2_11.cpp)
+    - class - assigning two datamember(day2_12.cpp)
+    - class - private datamember(day2_13.cpp)
+    - class - method call with scope resolution operator(day2_14.cpp)
+    - class - method inside the class(day2_15.cpp)
     - 
     

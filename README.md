@@ -32,4 +32,11 @@
     - class - method inside the class(day2_15.cpp)
     - class - arrow operator(day2_16.cpp)
     - method declaration and method definition(day2_17.cpp)
+    - method call by scope resolution operator(day2_18.cpp)
+    - ternary operator(day2_19.cpp)
+    - inline function(day2_20.cpp)
+    - size of class(day2_21.cpp)
+    - size of empty class(day2_22.cpp)
+    - method overloading(day2_23.cpp)
+    - method overloading with different sequence of method declaration(day2_24.cpp)
     

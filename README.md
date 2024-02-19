@@ -55,4 +55,10 @@
       - class - destructor ,constructor,method with scope resolution operator(day3_12.cpp)
       - class - setter and getter(day3_13.cpp)
       - importing header file concept(day3_14.cpp,emp.h,empimpl.cpp) 
+
     
+     - **day4**
+        - const variable(day4_1.cpp)
+        - const increment error(day4_2.cpp)
+        - const reinitialization error(day4_3.cpp)
+        - 

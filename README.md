@@ -74,3 +74,10 @@
       - class - summation of number using member function (day4_14.cpp)
       - class - summation of number static variable (day4_14.cpp)
       - copy constuctor(new.cpp)
+   
+   - **day5**
+      - try catch block(day5_1.cpp)
+      - throw(day5_2.cpp)
+      - throw decimal number(day5_3.cpp)
+      - generic catch block(day5_4.cpp)
+      - 

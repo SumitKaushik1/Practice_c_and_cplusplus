@@ -61,4 +61,10 @@
       - const variable(day4_1.cpp)
       - const increment error(day4_2.cpp)
       - const reinitialization error(day4_3.cpp)
+      - const datamember(day4_4.cpp)
+      - const datamember increment error(day4_5.cpp)
+      - mutable datamember(day4_6.cpp)
+      - reference variable(day4_7.cpp)
+      - swap numbers using pointers,reference variable(day4_8.cpp)
+      - copy constructor(day4_9.cpp)
       - 

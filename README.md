@@ -80,4 +80,14 @@
       - throw(day5_2.cpp)
       - throw decimal number(day5_3.cpp)
       - generic catch block(day5_4.cpp)
-      - 
+      - exception(day5_5.cpp)
+      - class addition error(day5_6.cpp)
+      - operator overloading(day5_7.cpp)
+      - operator overloading and copy constructor(day5_8.cpp)
+      - template with one classes(day5_9.cpp)
+      - template with two classes(day5_10.cpp)
+      - template and pointer variable (day5_11.cpp)
+      - friend function(day5_12.cpp)
+      - namespace(new.cpp)
+      - const pointer variable error (new1.cpp)
+        

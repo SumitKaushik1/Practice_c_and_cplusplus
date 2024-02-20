@@ -67,4 +67,10 @@
       - reference variable(day4_7.cpp)
       - swap numbers using pointers,reference variable(day4_8.cpp)
       - copy constructor(day4_9.cpp)
-      - 
+      - default copy constructor and parameterized constructor(day4_10.cpp)
+      - pointer array(day4_11.cpp)
+      - static variable(day4_12.cpp)
+      - static variable initialized by static variable(day4_13.cpp)
+      - class - summation of number using member function (day4_14.cpp)
+      - class - summation of number static variable (day4_14.cpp)
+      - copy constuctor(new.cpp)

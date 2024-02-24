@@ -90,4 +90,15 @@
       - friend function(day5_12.cpp)
       - namespace(new.cpp)
       - const pointer variable error (new1.cpp)
-        
+
+   - **day6**
+     - class and friend function declaration(day6_1.cpp)
+     - friend class(day6_2.cpp)
+     - inheritance(day6_3.cpp)
+     - paramterized constructor and inheritance(day6_4.cpp)
+   
+   - **day7**
+     - multilevel inheritance(day7_1.cpp)
+   
+       
+       

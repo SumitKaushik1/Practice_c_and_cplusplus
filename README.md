@@ -113,6 +113,23 @@
    - **day1**
       - print hello precat  OM20 batch(day1/day1_1/.c)
       - hello world(day1_1.c)
+
+   - **day2**
+       - <h4>day 3 assignment1 programme</h4>
+         • datatypes(day2_as1.1.c)
+         • unsigned and signed(day2_as1.2.c)
+         • decimal,octal and hexadecimal(day2_as2.c)
+         • decimal,octal and hexadecimal(day2_as3.c
+         • star pattern(day2_as4.c)
+         • unsigned integer(doubt.c)
+
+
+
+         
+
+         
+           
+      
      
       
          

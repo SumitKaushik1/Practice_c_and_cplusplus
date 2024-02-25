@@ -124,6 +124,18 @@
          • unsigned integer(doubt.c)<br>
          • escape sequence print (doubt2.c)<br>
          • no brackets error (doubt3.c)<br>
+     - dataspecifier(day2_1.c)
+     - char,int,float(day2_2.c)
+     - size of dataspecifier(day2_3.c)
+     - size of character variable(day2_4.c)
+     - size of character variable(day2_5.c)
+     - ascii value of character(day2_6.c)
+     - size of float(day2_7.c)
+     - octal,hexa,decimal(day2_8.c)
+     - decimal and unsigned(day2_9.c)
+     - fill zeroes before numbers(day2_10.c)
+     - digits after decimal(day2_11.c)
+     
                                              
 
          

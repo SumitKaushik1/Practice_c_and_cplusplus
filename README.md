@@ -111,7 +111,7 @@
    ## programm of c
    
    - **day1**
-      - print hello precat  OM20 batch(day1/day1_1/.c
+      - print hello precat  OM20 batch(day1/day1_1/.c)
       - hello world(day1_1.c)
      
       

@@ -99,6 +99,13 @@
    
    - **day7**
      - multilevel inheritance(day7_1.cpp)
+     - base class,derived class  method overriding(day7_2.cpp)
+     - calling base class method from derived class(day7_3.cpp)
+     - method calling using the pointer(day7_4.cpp)
+     - virtual method(day7_5.cpp)
+     - protected and public(7_6.cpp)
+     - access the data member of object using the  pointer(new.cpp)
+     - one class object cannot access the other class object datamember(error)(new1.cpp)
    
        
        

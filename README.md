@@ -107,6 +107,14 @@
      - access the data member of object using the  pointer(new.cpp)
      - one class object cannot access the other class object datamember(error)(new1.cpp)
 
+   
    ## programm of c
+   
+   - **day1**
+      - print hello precat  OM20 batch(day1/day1_1/.c
+      - hello world(day1_1.c)
+     
+      
+         
        
        

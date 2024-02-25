@@ -116,12 +116,12 @@
 
    - **day2**
        - <h4>day 3 assignment1 programme</h4>
-         • datatypes(day2_as1.1.c)
-         • unsigned and signed(day2_as1.2.c)
-         • decimal,octal and hexadecimal(day2_as2.c)
-         • decimal,octal and hexadecimal(day2_as3.c
-         • star pattern(day2_as4.c)
-         • unsigned integer(doubt.c)
+         • datatypes(day2_as1.1.c)<br>
+         • unsigned and signed(day2_as1.2.c)<br>
+         • decimal,octal and hexadecimal(day2_as2.c)<br>  
+         • decimal,octal and hexadecimal(day2_as3.c)<br> 
+         • star pattern(day2_as4.c)<br>      
+         • unsigned integer(doubt.c)<br>   
 
 
 

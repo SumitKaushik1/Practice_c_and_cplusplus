@@ -135,7 +135,9 @@
      - decimal and unsigned(day2_9.c)
      - fill zeroes before numbers(day2_10.c)
      - digits after decimal(day2_11.c)
-     
+
+  - **day3**
+    - print number of characters(day3_1.c)
                                              
 
          

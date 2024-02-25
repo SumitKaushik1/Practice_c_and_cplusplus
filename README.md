@@ -121,7 +121,12 @@
          • decimal,octal and hexadecimal(day2_as2.c)<br>  
          • decimal,octal and hexadecimal(day2_as3.c)<br> 
          • star pattern(day2_as4.c)<br>      
-         • unsigned integer(doubt.c)<br>   
+         • unsigned integer(doubt.c)<br>
+         • escape sequence print (doubt2.c)<br>
+         • no brackets error (doubt3.c)<br>
+                                             
+
+         
 
 
 

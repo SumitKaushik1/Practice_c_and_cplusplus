@@ -106,6 +106,7 @@
      - protected and public(7_6.cpp)
      - access the data member of object using the  pointer(new.cpp)
      - one class object cannot access the other class object datamember(error)(new1.cpp)
-   
+
+   ## programm of c
        
        

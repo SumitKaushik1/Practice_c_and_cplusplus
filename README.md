@@ -138,6 +138,47 @@
 
   - **day3**
     - print number of characters(day3_1.c)
+    - data specifier and escape characters(day3_2.c)
+    - print the escape characters(day3_3.c)
+    - take input by scanf and print its output(day3_4.c)
+    - input as character and number(day3_5.c)
+    - ascii value and the character(day3_6.c)
+    - assignment suppressing operator(day3_7.c)
+    - minimum and maximum integer value(day3_8.c)
+    - print the long number as integer(day3_9.c)
+    - print the characters and zeres before it(day3_10.c)
+    - unsigned character(day3_11.c)
+    - unsigned character out of range(day3_12.c)
+    - unsigned character addition(day3_13.c)
+    - signed character addition(day3_14.c)
+
+
+   - **day4**
+       - <h4>assignment2  of day4</h4>
+         • double quotes print(day4_as1.c)<br>
+         • print table(day4_as2.c)<br>
+         • enter four digit number(day4_as3.c)<br>  
+         • average(day4_as4.c)<br> 
+       - <h4>Poll questions</h4>
+         • float and decimal(day4_question5.c)<br>
+       - <h4>twister</h4>
+         • print \@(question1.c)<br>
+         • float and decimal(question5.c)<br>
+
+         
+   
+     - dataspecifier(day2_1.c)
+     - char,int,float(day2_2.c)
+     - size of dataspecifier(day2_3.c)
+     - size of character variable(day2_4.c)
+     - size of character variable(day2_5.c)
+     - ascii value of character(day2_6.c)
+     - size of float(day2_7.c)
+     - octal,hexa,decimal(day2_8.c)
+     - decimal and unsigned(day2_9.c)
+     - fill zeroes before numbers(day2_10.c)
+     - digits after decimal(day2_11.c)
+
                                              
 
          

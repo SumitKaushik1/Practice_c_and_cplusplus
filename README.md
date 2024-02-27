@@ -164,20 +164,23 @@
        - <h4>twister</h4>
          • print \@(question1.c)<br>
          • float and decimal(question5.c)<br>
-
-         
-   
-     - dataspecifier(day2_1.c)
-     - char,int,float(day2_2.c)
-     - size of dataspecifier(day2_3.c)
-     - size of character variable(day2_4.c)
-     - size of character variable(day2_5.c)
-     - ascii value of character(day2_6.c)
-     - size of float(day2_7.c)
-     - octal,hexa,decimal(day2_8.c)
-     - decimal and unsigned(day2_9.c)
-     - fill zeroes before numbers(day2_10.c)
-     - digits after decimal(day2_11.c)
+       - substraction,multiplication,division,remainder(day4_1.1.c)
+       - substraction,multiplication,(float)division,remainder(day4_1.2.c)
+       - substraction,multiplication,(float)division,remainder with float dataspecifier(day4_1.3.c)
+       - variable add to integer(day4_2.1.c)
+       - asignment  plus operator(day4_2.2.c)
+       - assignment minus operator(day4_2.3.c)
+       - assignment multiplication operator(day4_2.4.c)
+       - assignment division operator(day4_2.5.c)
+       - assignment remainder operator(day4_2.6.c)
+       - use of all assignment operator(day4_2.7.c)
+       - conditional operator(day4_3.c)
+       - post increment operator(day4_4.1.c)
+       - pre increment operator(day4_4.2.c)
+       - use of both post and pre increment operator(day4_4.3.c)
+       - post and pre incremetn operators and Or operator(day4_5.1.c)
+       - logical not operator(day4_5.2.c)
+       - pre decrement operator(day4_5.3.c)
 
                                              
 

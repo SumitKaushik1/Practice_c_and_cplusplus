@@ -180,8 +180,36 @@
        - use of both post and pre increment operator(day4_4.3.c)
        - post and pre incremetn operators and Or operator(day4_5.1.c)
        - logical not operator(day4_5.2.c)
-       - pre decrement operator(day4_5.3.c)
+       - pre decrement operator(day4_5.3.c
 
+  
+  - **day5**
+       - <h4>assignment3 day5</h4>
+         • sum of all digits(day5_as1.c)<br>
+         • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
+         • area and parameter of triangle (day5_as3.c)<br>
+       - <h4>day5</h4>
+         •  bitwise and/or/not(day5_1.c)<br>
+         •  bitwise not/leftshift/rightshift(day5_2.c)<br>
+         •  post increment and decrement(day5_3.c)<br> 
+         •  post decrement and  pre increment(day5_4.c)<br>
+         •  post decrement and  pre increment(day5_5.c)<br>   
+         •  left to right and  right  to left concepts in  increment(day5_6.c)<br>    
+         •  maximum of two numbers(day5_7.c)<br>
+         •  even and odd number (day5_8.c)<br>
+         •  negative and positive number(day5_9.c)<br>
+         •  lowercase and uppercase character (day5_10.c)<br>
+
+
+
+         
+
+         
+
+
+
+         
+        
                                              
 
          

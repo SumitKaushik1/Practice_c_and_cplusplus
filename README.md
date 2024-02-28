@@ -200,6 +200,35 @@
          •  negative and positive number(day5_9.c)<br>
          •  lowercase and uppercase character (day5_10.c)<br>
 
+    - **day6**
+       - <h4>day 5assignment 4</h4>
+         • switch case(day6_as1.c)<br>
+         • leap year(day6_as2.1.c)<br>
+         • leap year and not leap year(day6_as2.2.c)<br>
+         • ternary operator(day6_as2.3.c)<br>
+         • quantiy and price (day6_as3.c)<br>
+         • or, increment and decrement (doubt1.c)<br>
+         • o("\"\""),"","\n"(doubt.c)<br>
+
+
+
+
+       - <h4>day5</h4>
+         •  bitwise and/or/not(day5_1.c)<br>
+         •  bitwise not/leftshift/rightshift(day5_2.c)<br>
+         •  post increment and decrement(day5_3.c)<br> 
+         •  post decrement and  pre increment(day5_4.c)<br>
+         •  post decrement and  pre increment(day5_5.c)<br>   
+         •  left to right and  right  to left concepts in  increment(day5_6.c)<br>    
+         •  maximum of two numbers(day5_7.c)<br>
+         •  even and odd number (day5_8.c)<br>
+         •  negative and positive number(day5_9.c)<br>
+         •  lowercase and uppercase character (day5_10.c)<br>
+
+
+
+         
+
 
 
          

@@ -211,16 +211,26 @@
          • o("\"\""),"","\n"(doubt.c)<br>
 
      - <h4>day6</h4>
-         •  bitwise and/or/not(day5_1.c)<br>
-         •  bitwise not/leftshift/rightshift(day5_2.c)<br>
-         •  post increment and decrement(day5_3.c)<br> 
-         •  post decrement and  pre increment(day5_4.c)<br>
-         •  post decrement and  pre increment(day5_5.c)<br>   
-         •  left to right and  right  to left concepts in  increment(day5_6.c)<br>    
-         •  maximum of two numbers(day5_7.c)<br>
-         •  even and odd number (day5_8.c)<br>
-         •  negative and positive number(day5_9.c)<br>
-         •  lowercase and uppercase character (day5_10.c)<br>
+         •  switch case - addition(day6_1.c)<br>
+         •  switch case - multiplication(day6_2.c)<br> 
+         •  switch case - substraction(day6_3.c)<br>
+         •  switch case - remainder(day6_4.c)<br>   
+         •  switch case - without break(day6_5.c)<br>    
+         •  switch case - upper case and lower case choice (day6_6.c)<br>
+         •  switch case - integer choice(day6_7.c)<br>
+         •  switch case - common cases (day6_8.c)<br>
+         •  while loop - post increment (day6_9.c)<br>
+         •  while loop - plus assignment operator(day6_10.c)<br>
+         •  while loop - three zero digits before number(day6_11.c)<br>
+         •  while loop - table(day6_12.c)<br>
+         •  for loop -  three zero digits before number(day6_13.c)<br>
+         •  for loop -  five zero digits before number(day6_14.c)<br>
+
+
+
+ 
+
+         
 
 
 

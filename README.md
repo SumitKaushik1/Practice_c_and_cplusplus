@@ -225,6 +225,59 @@
          •  while loop - table(day6_12.c)<br>
          •  for loop -  three zero digits before number(day6_13.c)<br>
          •  for loop -  five zero digits before number(day6_14.c)<br>
+         •  for loop -  odd number and even number(day6_15.c)<br>
+         •  for loop -  initalization in one line(day6_16.c)<br>
+         •  for loop -  initalization in one line and increment in another line(day6_17c)<br>
+         •  for loop -  initalization in one line and increment in another line(day6_18.c)<br>
+         •  for loop -  initalization in one line and decrement  in another line(day6_19.c)<br>
+         •  for loop -  next line  print(day6_20.c)<br>
+         •  for loop -  nested for loop (day6_21.c)<br>
+         •  for loop -  nested for loop pattern (day6_22.c)<br>
+         •  do while loop  - switchcase (day6_23.c)<br>
+         •  for loop  -  break staetment inside(day6_24.c)<br>
+         •  for loop  -  continue staetment inside(day6_25.c)<br>
+         •  goto - if (doubt1.c)<br>
+         •  And and equals opertor  -  switchcase(doubt.c)<br>
+         •  empty no code (day6_1.c)<br>
+
+         
+- **day7**
+       - <h4>assignment 5 day6</h4>
+         • sum of all digits(day5_as1.c)<br>
+         • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
+         • area and parameter of triangle (day5_as3.c)<br>
+      - <h4>assignment 6 day7</h4>
+         • sum of all digits(day5_as1.c)<br>
+         • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
+         • area and parameter of triangle (day5_as3.c)<br>
+       - <h4>day7</h4>
+         •  bitwise and/or/not(day5_1.c)<br>
+         •  bitwise not/leftshift/rightshift(day5_2.c)<br>
+         •  post increment and decrement(day5_3.c)<br> 
+         •  post decrement and  pre increment(day5_4.c)<br>
+         •  post decrement and  pre increment(day5_5.c)<br>   
+         •  left to right and  right  to left concepts in  increment(day5_6.c)<br>    
+         •  maximum of two numbers(day5_7.c)<br>
+         •  even and odd number (day5_8.c)<br>
+         •  negative and positive number(day5_9.c)<br>
+         •  lowercase and uppercase character (day5_10.c)<br>
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

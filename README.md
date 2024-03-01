@@ -242,15 +242,18 @@
 
          
 - **day7**
-       - <h4>assignment 5 day6</h4>
+
+  - <h4>assignment 5 day6</h4>
          • sum of all digits(day5_as1.c)<br>
          • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
          • area and parameter of triangle (day5_as3.c)<br>
-      - <h4>assignment 6 day7</h4>
+     
+  - <h4>assignment 6 day7</h4>
          • sum of all digits(day5_as1.c)<br>
          • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
          • area and parameter of triangle (day5_as3.c)<br>
-       - <h4>day7</h4>
+
+  - <h4>day7</h4>
          •  bitwise and/or/not(day5_1.c)<br>
          •  bitwise not/leftshift/rightshift(day5_2.c)<br>
          •  post increment and decrement(day5_3.c)<br> 

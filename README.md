@@ -244,26 +244,34 @@
 - **day7**
 
   - <h4>assignment 5 day6</h4>
-         • sum of all digits(day5_as1.c)<br>
-         • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
-         • area and parameter of triangle (day5_as3.c)<br>
+         • x and y coordinate if and else(day6_as1.c)<br>
+         • enter the year and enter the month(day6_as2.c)<br>
+         • enter id and the enter the department and the employee code  (day6_as3.c)<br>
+         • while loop and increment(doubt.1.1.c)<br>
+         • while loop and scanf in brackets(doubt.1c)<br>
+         • for loop and variable  intialized  in brackets(doubt.c)<br>
+
+
+
      
   - <h4>assignment 6 day7</h4>
-         • sum of all digits(day5_as1.c)<br>
-         • enter the temperature in fehreneit and celcius(day5_as2.c)<br>
-         • area and parameter of triangle (day5_as3.c)<br>
+         • do while loop and the  switch case (day7_as1.c)<br>
+         • fibbonacci series(day7_as2.1.1c)<br>
+         • number of terms in fibbonacci series(day7_as2.2.c)<br>
+         • nested for loop(day7_as3.c)<br>
+
 
   - <h4>day7</h4>
-         •  bitwise and/or/not(day5_1.c)<br>
-         •  bitwise not/leftshift/rightshift(day5_2.c)<br>
-         •  post increment and decrement(day5_3.c)<br> 
-         •  post decrement and  pre increment(day5_4.c)<br>
-         •  post decrement and  pre increment(day5_5.c)<br>   
-         •  left to right and  right  to left concepts in  increment(day5_6.c)<br>    
-         •  maximum of two numbers(day5_7.c)<br>
-         •  even and odd number (day5_8.c)<br>
-         •  negative and positive number(day5_9.c)<br>
-         •  lowercase and uppercase character (day5_10.c)<br>
+         •  goto statement(day7_1.c)<br>
+         •  typedef keyword(day7_2.c)<br>
+         •  enum keyword(day7_3.1.c)<br> 
+         •  enum-red ,blue,green,yellow(day7_3.2.c)<br>
+         •  enum- red,blue,green,yellow different values(day7_3.3.c)<br>   
+         •  enum- red,green,yellow but blue value is not given(day7_3.4.c)<br>   
+         •  enum- red,green but yellow,blue values are not given(day7_3.5.c)<br>
+         •  enum- blue,green but red,yellow values are not given(day7_3.6.c)<br>
+         •  enum- red value is not given but blue,green,yellow are there (day7_3.7.c)<br>
+         •  enum- negative value for red but blue,green,yellow values are not given  (day7_3.8.c)<br>
 
 
          

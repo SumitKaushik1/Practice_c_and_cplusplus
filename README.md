@@ -271,7 +271,50 @@
          •  enum- red,green but yellow,blue values are not given(day7_3.5.c)<br>
          •  enum- blue,green but red,yellow values are not given(day7_3.6.c)<br>
          •  enum- red value is not given but blue,green,yellow are there (day7_3.7.c)<br>
-         •  enum- negative value for red but blue,green,yellow values are not given  (day7_3.8.c)<br>
+         •  enum- negative value for red but blue,green,yellow values are not given(day7_3.8.c)<br> 
+         •  enum- dublicate red value error(day7_3.9.c)<br>
+         •  enum-  value initialization(day7_4_1.c)<br>
+         •  enum-  enum value  not modifiable(day7_4_2.c)<br>
+         •  enum-  different variable intialization(day7_5.1.c)<br>
+         •  enum-  size of enum(day7_5.2.c)<br>
+         •  enum-  typedef enum(day7_6.c)<br>
+         •  enum-  enum variable cannot be intialzied with enum(day7_7.1.c)<br>
+         •  enum-  enum variable initialization(day7_7.2.c)<br>
+         •  enum-  enum variable initialization(day7_7.3.c)<br>
+         •  enum-  do while,enum variable and switch case(day7_8.c)<br>
+         •  calling function(day7_9.c)<br>
+
+- **day8**
+
+  - <h4>assignment 7 day8</h4>
+         • x and y coordinate if and else(day6_as1.c)<br>
+         • enter the year and enter the month(day6_as2.c)<br>
+         • enter id and the enter the department and the employee code  (day6_as3.c)<br>
+         • while loop and increment(doubt.1.1.c)<br>
+         • while loop and scanf in brackets(doubt.1c)<br>
+         • for loop and variable  intialized  in brackets(doubt.c)<br>
+
+
+
+     
+  - <h4>assignment 6 day7</h4>
+         • do while loop and the  switch case (day7_as1.c)<br>
+         • fibbonacci series(day7_as2.1.1c)<br>
+         • number of terms in fibbonacci series(day7_as2.2.c)<br>
+         • nested for loop(day7_as3.c)<br>     
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                   
 
 
          

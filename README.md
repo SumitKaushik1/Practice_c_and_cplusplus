@@ -287,21 +287,30 @@
 - **day8**
 
   - <h4>assignment 7 day8</h4>
-         • x and y coordinate if and else(day6_as1.c)<br>
-         • enter the year and enter the month(day6_as2.c)<br>
-         • enter id and the enter the department and the employee code  (day6_as3.c)<br>
-         • while loop and increment(doubt.1.1.c)<br>
-         • while loop and scanf in brackets(doubt.1c)<br>
-         • for loop and variable  intialized  in brackets(doubt.c)<br>
+         • all factor of 1(day8_as1.c)<br>
+         • power of base index(day8_as3.c)<br>
+         • exit(0)(doubt.c)<br>
+
+  • summation of numbers by method call (day8_1.c)<br>
+  • subtraction of numbers by method call(day8_2.c)<br>
+  • summation and subtraction of numbers by method call(day8_3.c)<br>
+  • accept number by method call(day8_4.c)<br>
+  • accept number and store number in a variable by method call(day8_5.c)<br>
+  • swap of two numbers  by method call(day8_6.c)<br>
+  • swap of two numbers  by another method call(day8_7.c)<br>
+  • printf variable(day8_8.c)<br>
+  • auto keyword(day8_9.c)<br>
+  • register keyword(day8_10.c)<br>
+  • global variable(day8_11.c)<br>     
+  • register variable error(day8_12.c)<br>     
+  • register keyword(day8_13.c)<br>     
 
 
 
-     
-  - <h4>assignment 6 day7</h4>
-         • do while loop and the  switch case (day7_as1.c)<br>
-         • fibbonacci series(day7_as2.1.1c)<br>
-         • number of terms in fibbonacci series(day7_as2.2.c)<br>
-         • nested for loop(day7_as3.c)<br>     
+    
+    
+
+
 
 
 

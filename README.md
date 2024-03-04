@@ -290,20 +290,19 @@
          • all factor of 1(day8_as1.c)<br>
          • power of base index(day8_as3.c)<br>
          • exit(0)(doubt.c)<br>
-
-  • summation of numbers by method call (day8_1.c)<br>
-  • subtraction of numbers by method call(day8_2.c)<br>
-  • summation and subtraction of numbers by method call(day8_3.c)<br>
-  • accept number by method call(day8_4.c)<br>
-  • accept number and store number in a variable by method call(day8_5.c)<br>
-  • swap of two numbers  by method call(day8_6.c)<br>
-  • swap of two numbers  by another method call(day8_7.c)<br>
-  • printf variable(day8_8.c)<br>
-  • auto keyword(day8_9.c)<br>
-  • register keyword(day8_10.c)<br>
-  • global variable(day8_11.c)<br>     
-  • register variable error(day8_12.c)<br>     
-  • register keyword(day8_13.c)<br>     
+  - summation of numbers by method call (day8_1.c)<br>
+  - subtraction of numbers by method call(day8_2.c)<br>
+  - summation and subtraction of numbers by method call(day8_3.c)<br>
+  - accept number by method call(day8_4.c)<br>
+  - accept number and store number in a variable by method call(day8_5.c)<br>
+  - swap of two numbers  by method call(day8_6.c)<br>
+  - swap of two numbers  by another method call(day8_7.c)<br>
+  - printf variable(day8_8.c)<br>
+  - auto keyword(day8_9.c)<br>
+  - register keyword(day8_10.c)<br>
+  - global variable(day8_11.c)<br>     
+  - register variable error(day8_12.c)<br>     
+  - register keyword(day8_13.c)<br>     
 
 
 

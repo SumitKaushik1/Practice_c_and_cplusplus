@@ -306,7 +306,36 @@
 
 - **day9**
   - <h4>assignment8 day9</h4>
-        • prime numbers(day1.c)<br>
+        • prime numbers(1.c)<br>
+        • calculator(day9_as1.c)<br>
+        • range in prime and isPrime(day9_as2.c)<br>
+        • Power of number(day9_as3.c)<br>
+        • calculate +,-,/,* (new.c)<br>
+  - <h4>assignment9 day9</h4>
+        • nth number of fibbonacci series(day9_as1.c)<br>
+        • calculator(day9_as1.c)<br>
+        • gcd of number(day9_as2.c)<br>
+        • printing character 'n' number of times(day9_as3.c)<br>
+        • hcf of the number(new.c)<br>
+  - static global variable (day9_1.c)<br>
+  - static global variable and address of global variable (day9_2.c)<br>
+  - local static variable(day9_3.c)<br>
+  - increment and decrement of local static variable(day9_4.c)<br>
+  - static variable and constant value error(day9_5.c)<br>
+  - global variable (day9_6.c)<br>
+  - priorty between global variable and local variable(day9_7.c)<br>
+  - extern variable(day9_8.c)<br>
+  - factorial of a number(day9_9.c)<br>
+  - factorial of a number by recursion(day9_10.c)<br>
+
+
+  
+  
+
+
+
+
+
     
 
 

@@ -328,6 +328,25 @@
   - factorial of a number(day9_9.c)<br>
   - factorial of a number by recursion(day9_10.c)<br>
 
+  - **day10**
+  - <h4>assignment 10 day10</h4>
+        • switch case and pointer(day10_as1.1.c)<br>
+        • switch case and pointer and with options(day10_as1.2.c)<br>
+        • swap numbers with pointer(day10_as2.c)<br>
+  - pointer size,address,double pointer(day10_1.c)<br>
+  - pointer and double pointer(day10_2.c)<br>
+  - character pointer(day10_3.c)<br>
+  - integer pointer assign to character pointer(day10_4.c)<br>
+  - integer pointer assign to character pointer with other integer value(day10_5.c)<br>
+  - pointer increment (day10_6.c)<br>
+  - pointer assingment operator(day10_7.c)<br>
+  - swap number with normal integer value(day10_8.c)<br>
+  - swap number with the pointer value(day10_9.c)<br>
+  -  void pointer(day10_10.c)<br>
+  - pass array in method call(new.c)<br>
+
+
+
 
   
   

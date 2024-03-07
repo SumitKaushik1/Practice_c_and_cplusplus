@@ -348,6 +348,46 @@
 
 
 
+  - **day11**
+   
+  - <h4>assignment 11,day11</h4>
+        • float array(day11_as1.c)<br>
+        • array and pointer(day11_as2.c)<br>
+        • max and min using array(day11_as3.c)<br>
+        • pointer array(new.c)<br>
+  - putting value in array(day11_1.c)<br>
+  - size of array(day11_2.c)<br>
+  - size of array and putting value in array(day11_3.c)<br>
+  - size of arrray and index(day11_4.c)<br>
+  - index and address(day11_5.c)<br>
+  - address increment(day11_6.c)<br>
+  - array and pointer(day11_7.c)<br>
+  - array and elements in it (day11_8.c)<br>
+  - enter the array elements(day11_9.c)<br>
+  - pass array in method call (day11_10.c)<br>
+  - constant float(day11_11.c)<br>
+  - constant float increment error(day11_12.c)<br>
+  - float pointer (day11_13.c)<br>
+  - void pointer(day11_12.c)<br>
+  - void pointer(day11_13.c)<br>
+  - void pointer(day11_14.c)<br>
+  - void pointer(day11_15.c)<br>
+  - void pointer(day11_16.c)<br>
+  - void pointer(day11_17.c)<br>
+  - void pointer(day11_18.c)<br>
+  - void pointer(day11_19.c)<br>
+  - void pointer(day11_19.c)<br>
+  - void pointer(day11_20.c)<br>
+  - void pointer(day11_21.c)<br>
+  - void pointer(day11_22.c)<br>
+  - void pointer(day11_23.c)<br>
+  
+
+
+  
+
+
+
 
   
   

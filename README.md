@@ -368,11 +368,11 @@
   - constant float(day11_11.c)<br>
   - constant float increment error(day11_12.c)<br>
   - float pointer (day11_13.c)<br>
-  - void pointer(day11_12.c)<br>
-  - void pointer(day11_13.c)<br>
-  - void pointer(day11_14.c)<br>
-  - void pointer(day11_15.c)<br>
-  - void pointer(day11_16.c)<br>
+  - float double pointer(day11_14.c)<br>
+  - character array(day11_15.c)<br>
+  - size of an  string array(day11_16.c)<br>
+  - size of an  string array escape sequence at last in string (day11_17.c)<br>
+  - size of an array escape sequence in between(day11_18.c)<br>
   - void pointer(day11_17.c)<br>
   - void pointer(day11_18.c)<br>
   - void pointer(day11_19.c)<br>

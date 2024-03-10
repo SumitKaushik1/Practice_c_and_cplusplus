@@ -371,16 +371,35 @@
   - float double pointer(day11_14.c)<br>
   - character array(day11_15.c)<br>
   - size of an  string array(day11_16.c)<br>
-  - size of an  string array escape sequence at last in string (day11_17.c)<br>
-  - size of an array escape sequence in between(day11_18.c)<br>
-  - void pointer(day11_17.c)<br>
-  - void pointer(day11_18.c)<br>
-  - void pointer(day11_19.c)<br>
-  - void pointer(day11_19.c)<br>
-  - void pointer(day11_20.c)<br>
-  - void pointer(day11_21.c)<br>
-  - void pointer(day11_22.c)<br>
-  - void pointer(day11_23.c)<br>
+  - size of an  string array null character at last in string (day11_17.c)<br>
+  - size of an array null character in between(day11_18.c)<br>
+  - character array with null character somewhere in between(day11_19.c)<br>
+  - character array of length of four(day11_20.c)<br>
+  - character array of length twenty(day11_21c)<br>
+  - character pointer(day11_22.c)<br>
+  - character pointer and printing characters of string using pointer(day11_23.c)<br>
+  - passing two dimensional array(new.c)<br>
+
+- **day12**
+   
+  - <h4>assignment 11 day12</h4>
+        • string and switch case - length of string ,copy of string,combine and concatination of string,comparision of strings,comparision of string without case sensitive,reverse of string,searching of character,searching of substring in a string,copy the finite character of string  and so on   (day12_as1.c)<br>
+        • strln,strrev,strcpy(day12_as2.c)<br>
+        • character array initialization(new.c)<br>
+  - character array of length twenty(day12_1.c)<br>
+  - regular expresssion %[^\n]s and  %s data specifier(day12_2.c)<br>
+  - regular expresssion %[^.]s and  %s data specifier(day12_3.c)<br>
+  - regular expresssion %[A-Z]s and  %s data specifier(day12_4.c)<br>
+  - regular expresssion %[^\n]s and  %s data specifie(day12_5.c)<br>
+  - regular expresssion %[^\n]s,%s data specifier and character pointer (day12_6.c)<br>
+  - strcat(day12_7.c)<br>
+  - strcpy and character array (day12_8.c)<br>
+  - two dimenstional array(day12_9.c)<br>
+  - two dimensional array in the method call  (day12_10.c)<br>
+  - two dimenstional array initialization(day12_11.c)<br>
+  - integer ,character pointer argument in main(day12_12.c)<br>
+  - strtok(new.c)<br>
+  
   
 
 

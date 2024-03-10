@@ -399,6 +399,42 @@
   - two dimenstional array initialization(day12_11.c)<br>
   - integer ,character pointer argument in main(day12_12.c)<br>
   - strtok(new.c)<br>
+
+- **day13**
+   
+  - <h4>assignment13 day 13</h4>
+        • putting values in two dimensional array(day13_as1.c)<br>
+        • putting values in two dimenstional array switch case(day13_as2.c)<br>
+        • sum of the row and sum of column(day13_as3.c)<br>
+        • void pointer(new.c)<br>
+  - (day13_1.c)<br>
+  - (day13_2.c)<br>
+  - (day13_3.c)<br>
+  - (day13_4.c)<br>
+  - (day13_5.c)<br>
+  - (day13_6.c)<br>
+  - (day13_7.c)<br>
+  - (day13_8.c)<br>
+  - (day13_9.c)<br>
+  - (day13_10.c)<br>
+  - (day13_11.c)<br>
+  - (day13_12.c)<br>
+  - (day13_13.c)<br>
+  - (day13_14.c)<br>
+  - (day13_15.c)<br>
+  - (day13_16.c)<br>
+  - (day13_17.c)<br>
+  - (day13_18.c)<br>
+  - (day13_19.c)<br>
+  - (day13_20.c)<br>
+  - (day13_21c)<br>
+  - (day13_22.c)<br>
+  - (day13_23.c)<br>
+  - (day13_24.c)<br>
+  - (new.c)<br>
+
+
+  
   
   
 

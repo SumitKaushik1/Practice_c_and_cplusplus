@@ -407,31 +407,54 @@
         • putting values in two dimenstional array switch case(day13_as2.c)<br>
         • sum of the row and sum of column(day13_as3.c)<br>
         • void pointer(new.c)<br>
-  - (day13_1.c)<br>
-  - (day13_2.c)<br>
-  - (day13_3.c)<br>
-  - (day13_4.c)<br>
-  - (day13_5.c)<br>
-  - (day13_6.c)<br>
-  - (day13_7.c)<br>
-  - (day13_8.c)<br>
-  - (day13_9.c)<br>
-  - (day13_10.c)<br>
-  - (day13_11.c)<br>
-  - (day13_12.c)<br>
-  - (day13_13.c)<br>
-  - (day13_14.c)<br>
-  - (day13_15.c)<br>
-  - (day13_16.c)<br>
-  - (day13_17.c)<br>
-  - (day13_18.c)<br>
-  - (day13_19.c)<br>
-  - (day13_20.c)<br>
-  - (day13_21c)<br>
-  - (day13_22.c)<br>
-  - (day13_23.c)<br>
-  - (day13_24.c)<br>
-  - (new.c)<br>
+  - Processor directives - constant variable(day13_1.c)<br>
+  - Processor directives - square of a variable(5)(day13_2.c)<br>
+  - Processor directives - square of a variable(3+2)(day13_3.c)<br>
+  - Processor directives - swap of a number(day13_4.c)<br>
+  - Processor directives - function (day13_5.c)<br>
+  - Processor directives - if and else (day13_6.c)<br>
+  - Processor directives - if and else and another example(day13_7.c)<br>
+  - stdlib liberary(day13_7.c)(day13_8.c)<br>
+  - stdlib liberary - __FILE__,__TIME__,__DATE__,__LINE__(day13_9.c)<br>
+  - Processor directives - found and not found(day13_10.c)<br>
+  - Dynamic memory allocation - malloc(day13_11.c)<br>
+  - Dynamic memory allocation - calloc (day13_12.c)<br>
+  - struct (day13_13.c)<br>
+  - struct - object(day13_14.c)<br>
+  - struct - object copy by data memebes (day13_15.c)<br>
+  - struct - object copy by reference variable (day13_16.c)<br>
+  - struct - object initalization (day13_17.c)<br>
+  - struct - taking input for data member of object(day13_18.c)<br>
+  - struct - struct object(day13_19.c)<br>
+  - struct - typdef stuct (day13_20.c)<br>
+  - struct - taking input for the object data member(day13_21c)<br>
+  - struct - typedef struct object(day13_22.c)<br>
+  - struct - nested struct(day13_23.c)<br>
+  - struct - struct method(day13_24.c)<br>
+  - character pointer array(new.c)<br>
+
+- **day14**
+  - size of struct - int,int,int,char,int,char,char(day14_1.c)<br>
+  - size of stuct - int,double(day14_2.c)<br>
+  - size of struct -int,int,double(day14_3.c)<br>
+  - size of struct - int,double,int(day14_4.c)<br>
+  - size of struct - int,int,char(day14_5.c)<br>
+  - size of struct - char,int,int (day14_6.c)<br>
+  - Union(day14_7.c)<br>
+  - size of struct - int,char(day14_8.c)<br>
+  - Union - object(day14_9.c)<br>
+  - Union - object and size of union(day14_10.c)<br>
+  - Union - size of union and assingning the members of union(day14_11.c)<br>
+  - stuct - object(day14_12.c)<br>
+  - FILE (day14_13.c)<br>
+  - FILE POINTER(day14_14.c)<br>
+  - FILE POINTER - fseek,fopen(day14_15.c)<br>
+  - FILE POINTER - fseek,fopen,SEEK_END(day14_16.c)<br>
+  - POINTER method (day14_17.c)<br>
+  - const keyword(new.c)<br>
+  - text - my name is sumit kasuhik(source.txt)<br>
+  - text - my name is sumit kasuhik(source2.txt)<br>
+  - text - ABCDEFGHIJKLMNOPQRTUVWXYZ(src.txt)<br>
 
 
   

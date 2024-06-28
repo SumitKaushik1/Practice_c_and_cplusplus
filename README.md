@@ -1,5 +1,7 @@
 # Practice C and C++
-  ## programm of c++
+
+these are all c and c++ practice problems
+ ## programm of c++
     
     
   - **day1**

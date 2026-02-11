@@ -456,8 +456,7 @@ these are all c and c++ practice problems
   - const keyword(new.c)<br>
   - text - my name is sumit kasuhik(source.txt)<br>
   - text - my name is sumit kasuhik(source2.txt)<br>
-  - text - ABCDEFGHIJKLMNOPQRTUVWXYZ(src.txt)<br>
-    <br>
+  - text - ABCDEFGHIJKLMNOPQRTUVWXYZ(src.txt)
      
       
          

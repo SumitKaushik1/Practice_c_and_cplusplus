@@ -138,6 +138,9 @@ these are all c and c++ practice problems
      - fill zeroes before numbers(day2_10.c)
      - digits after decimal(day2_11.c)
 
+
+
+
   - **day3**
     - print number of characters(day3_1.c)
     - data specifier and escape characters(day3_2.c)

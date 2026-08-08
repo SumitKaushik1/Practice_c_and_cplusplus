@@ -16,6 +16,8 @@ these are all c and c++ practice problems
     - global variable(day1_9.cpp)
     - global vs local variable(day1_10.cpp)
 
+
+
   - **day2**
     - namespace(day2_1.cpp)
     - namespace with same variable(day2_2.cpp)
